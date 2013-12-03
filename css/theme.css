@@ -1,0 +1,20 @@
+.center {
+    margin-left: 25%;
+    width: 600px;
+}
+
+.boat-container .boat{
+    position: absolute;
+}
+
+.boat-container .animal-container{
+    height: 128px;
+    margin-left: 145px;
+    margin-top: 290px;
+    position: absolute;
+    width: 384px;
+}
+
+.boat-container .animal-container > img{
+    position: relative;
+}
